@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG,
                 format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
                 datefmt='%a, %d %b %Y %H:%M:%S',
-                filename='dat/svnadmin/fai-site/log/log.log',
+                filename='xxx',
                 filemode='w')
 
 def do_cmd(cmd):
